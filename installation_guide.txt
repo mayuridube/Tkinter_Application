@@ -1,1 +1,10 @@
-kd
+1.Install all packages from requirement.txt 
+1.1:$pip3 install -r requirement.txt
+1.2:$sudo apt-get install python3-tk
+
+2.setup database:
+2.1:install my sql server
+2.2:import Database/database_structured.sql file to create databse and tables.
+
+
+

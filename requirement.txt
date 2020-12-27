@@ -1,0 +1,2 @@
+tkcalendar==1.6.1
+mysql-connector==2.2.9
