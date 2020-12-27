@@ -18,7 +18,7 @@ and any teacher able to monitor complaint and After solving mark them solved/uns
 
 <h2>Usage:</h2>
 1.Clone github repository in your local system<br>
-2.Run Python file python main.py<br><br>
+2.Run Python file: $ python main.py<br><br>
 
 <h2>Screenshots: </h2>
 <p align="center">
