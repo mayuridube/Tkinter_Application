@@ -2,13 +2,13 @@
 
 <h2>Overview:</h2>
 Simple Complaint management system for school.Where each student can register their complaint.<br>
-and any teacher able to monitor complaint and After solving complaint mark them solved/unsolved respectively.<br><br>
+and any teacher able to monitor complaint and After solving mark them solved/unsolved respectively.<br><br>
 
 <h2>Database:</h2>
 <p>
-<h4>Database used:</h4>MYSQL<br>
-<h4>Db_name:</h4>complaint_management<br>
-<h4>Table_name:</h4>register_complaint<br><br>
+**Database used:**MYSQL<br>
+**Db_name:**complaint_management<br>
+**Table_name:**register_complaint<br><br>
  </p>
 
 <h2>Installation:</h2>
@@ -23,7 +23,7 @@ and any teacher able to monitor complaint and After solving complaint mark them 
 <h2>Screenshots: </h2>
 <p align="center">
  <img src="Images/first_window.png"></img><br>
- Fig:1 Selection Windoe:<br>
+ Fig:1 Selection Window:<br>
 </p>
 <p align="center">
  <img src="Images/1.png"></img><br>
