@@ -5,11 +5,11 @@ Simple Complaint management system for school.Where each student can register th
 and any teacher able to monitor complaint and After solving mark them solved/unsolved respectively.<br><br>
 
 <h2>Database:</h2>
-<p>
-**Database used:**MYSQL<br>
-**Db_name:**complaint_management<br>
-**Table_name:**register_complaint<br><br>
- </p>
+
+**Database used:** MYSQL<br>
+**Db_name:** complaint_management<br>
+**Table_name:** register_complaint<br><br>
+
 
 <h2>Installation:</h2>
 1.Create new virtual python environment python3 -m venv venv<br>
