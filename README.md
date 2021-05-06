@@ -1,4 +1,4 @@
-# Complaint management system Using Tkinter
+# Tkinter Application
 
 <h2>Overview:</h2>
 Simple Complaint management system for school.Where each student can register their complaint.<br>
